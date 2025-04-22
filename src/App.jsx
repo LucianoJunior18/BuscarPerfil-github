@@ -44,7 +44,7 @@ export default function App() {
   return (
     <>
       <div className="svg-icon">
-        <img src="./src/assets/Camada_1.svg" alt="" />
+        <img src="/BuscarPerfil-github/assets/Camada_1.svg" alt="camada " />
       </div>
       <div className="background-glow glow-left"></div>
       <div className="background-glow glow-right"></div>
@@ -55,7 +55,9 @@ export default function App() {
           <h1 className="title">
             PerfiI
           </h1>
-          <img className="img-github" src="./src/assets/GitHub.png" alt="" />
+          <img src="/BuscarPerfil-github/assets/GitHub.png" alt="GitHub logo" />
+
+
         </div>
 
         <SearchBox
